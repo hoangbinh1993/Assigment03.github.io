@@ -144,7 +144,11 @@
   .icon--project .position-job span i {
     margin-right: 5px;
   }
-
+  
+  .grid-item--project .title-project {
+  font-size: 0.8rem;
+  }
+  
   /* FOOTER */
   #footer .container {
     width: 100%;
@@ -154,4 +158,8 @@
     display: none;
   }
 
+   #footer ul {
+    gap: 15px;
+  }
+  
 }
