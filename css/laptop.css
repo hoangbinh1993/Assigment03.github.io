@@ -483,7 +483,8 @@ section > .container {
   justify-content: center;
   align-items: center;
   gap: 50px;
-  margin-bottom: 0;
+  margin-bottom: 0px;
+  padding-left: 0px;
 }
 
 /* Set màu cho icon = blue */
